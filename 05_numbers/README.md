@@ -1,6 +1,6 @@
 # Chapter 05_numbers
 
-**Due Date:** Friday, Feb. 20
+**Due Date:** wednesday, Feb. 25
 
 **This chapter is *ready* for Phy 225 students to work on.**
 Students should complete:
